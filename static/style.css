@@ -1,3 +1,9 @@
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
 body {
@@ -40,16 +46,27 @@ header {
     padding: 0px 5px;
 }
 
-.textphrase-container {
-    margin: 10% 30px;
-    text-align: left;
+
+
+
+.text-container {
+    font-size: 80px;
+    letter-spacing: 10px;
+    color: azure;
+    display: inline-block;
+    font-family: 'Work Sans', sans-serif;
+    position: fixed;
+    bottom: 10%;
+    left: 3%;
     
 }
 
-.text h1 {
-    font-family: "Work Sans";
-    color: azure;
-    letter-spacing: 8px;
-    font-size: 100px;
+.caret {
+    border-right: 2px solid white;
+    animation: blink 0.7s steps(1) infinite;
 }
 
+/* Blinking effect for the caret */
+@keyframes blink {
+    50% { border-color: transparent; }
+}
