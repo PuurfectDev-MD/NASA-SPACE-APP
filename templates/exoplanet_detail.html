@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="/static/exodetail.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ exoplanet.name }}</title>
+    <link rel="stylesheet" type="text/css" href="/static/exoplanent.css">
+</head>
+<body>
+    <h1>{{ exoplanet.name }}</h1>
+    <img class="exoplanet_img" src="{{ exoplanet.image }}" alt="{{ exoplanet.name }}">
+    <p>{{ exoplanet.description }}</p>
+   
+    <a href="/home">Back to Exoplanets</a>
+</body>
+</html>
