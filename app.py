@@ -19,6 +19,38 @@ exoplanets = [
         "distance": "100 light-years",
         "description": "A potentially habitable exoplanet with Earth-like conditions.",
         "id": "earth-like-exoplanet"
+    },
+        {
+        "name": "Earth-like Exoplanet",
+        "image": "/static/images/earth.jpg",
+        "size": "1 Earth radius",
+        "distance": "100 light-years",
+        "description": "A potentially habitable exoplanet with Earth-like conditions.",
+        "id": "earth-like-exoplanet"
+    },
+        {
+        "name": "Earth-like Exoplanet",
+        "image": "/static/images/earth.jpg",
+        "size": "1 Earth radius",
+        "distance": "100 light-years",
+        "description": "A potentially habitable exoplanet with Earth-like conditions.",
+        "id": "earth-like-exoplanet"
+    },
+        {
+        "name": "Earth-like Exoplanet",
+        "image": "/static/images/earth.jpg",
+        "size": "1 Earth radius",
+        "distance": "100 light-years",
+        "description": "A potentially habitable exoplanet with Earth-like conditions.",
+        "id": "earth-like-exoplanet"
+    },
+        {
+        "name": "Earth-like Exoplanet",
+        "image": "/static/images/earth.jpg",
+        "size": "1 Earth radius",
+        "distance": "100 light-years",
+        "description": "A potentially habitable exoplanet with Earth-like conditions.",
+        "id": "earth-like-exoplanet"
     }
     # Add more exoplanet data here...
 ]
