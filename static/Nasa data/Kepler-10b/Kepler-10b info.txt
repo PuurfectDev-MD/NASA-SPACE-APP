@@ -1,0 +1,6 @@
+Size: 1.4 Earth radii
+Distance: 564 light-years
+Orbit: Kepler-10 (G-type star)
+Features: An extremely hot lava planet that orbits its star every 20 hours. 
+Temperatures are high enough to melt rock, and the planet's surface is likely covered in molten lava. 
+It’s one of the densest exoplanets discovered.

@@ -1,0 +1,5 @@
+Size: 2.6 Earth radii
+Distance: 48 light-years
+Orbit: Gliese 1214 (red dwarf)
+Features: A mini-Neptune, likely with a thick atmosphere containing water vapor. It may be an ocean world, 
+though its high temperatures (due to its close orbit) could mean the surface is dominated by thick clouds or steam.

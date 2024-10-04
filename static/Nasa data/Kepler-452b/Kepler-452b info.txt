@@ -1,0 +1,6 @@
+Size: 1.6 times Earth’s radius
+Distance: 1,400 light-years
+Orbit: Kepler-452 (G-type star)
+Features: Located in the habitable zone of a Sun-like star. With a 385-day orbit, 
+this super-Earth may have conditions favorable for liquid water.Its size suggests it may have a thick
+atmosphere, potentially causing a runaway greenhouse effect like Venus.

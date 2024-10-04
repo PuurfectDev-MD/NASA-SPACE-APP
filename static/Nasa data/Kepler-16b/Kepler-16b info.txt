@@ -1,0 +1,6 @@
+Size: 0.75 Jupiter radii
+Distance: 200 light-years
+Orbit: Binary star system (Kepler-16A & Kepler-16B)
+Features: A gas giant orbiting two stars, reminiscent of Tatooine from Star Wars.
+Though cold and likely uninhabitable, its orbit around both stars creates unique conditions for 
+studying binary star systems.

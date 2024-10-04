@@ -1,0 +1,6 @@
+Size: 1.79 Jupiter radii
+Distance: 870 light-years
+Orbit: WASP-12 (F-type star)
+Features: A "Hot Jupiter" with an incredibly close 1.1-day orbit. Its proximity to the star causes it 
+to be egg-shaped, as the star’s gravity distorts the planet. It is also being slowly devoured by its star,
+losing mass over time.

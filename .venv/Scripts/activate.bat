@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=c:\Users\manis\NASA SPACE APPS\.venv
+set VIRTUAL_ENV=c:\Users\manis\Downloads\NASA-space-fork-main\NASA-space-fork-main\NASA Fork\NASA Fork\NASA-SPACE-APP\.venv
 
 if not defined PROMPT set PROMPT=$P$G
 

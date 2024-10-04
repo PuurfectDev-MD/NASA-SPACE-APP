@@ -1,0 +1,6 @@
+Size: 1.17 Earth masses
+Distance: 4.24 light-years
+Orbit: Proxima Centauri (red dwarf)
+Features: Closest exoplanet, located in the habitable zone. Likely rocky, potentially hosting liquid water.
+ Its close orbit (11.2 days) suggests it may be tidally locked, meaning one side constantly faces its star, 
+causing extreme temperature variations.

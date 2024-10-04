@@ -1,0 +1,6 @@
+Size: 1.7 Earth radii
+Distance: 40 light-years
+Orbit: LHS 1140 (red dwarf)
+Features: Likely a rocky super-Earth located in the habitable zone. It has a dense atmosphere, 
+and due to its star’s low activity, it may retain its atmosphere, making it a strong candidate 
+for hosting liquid water.

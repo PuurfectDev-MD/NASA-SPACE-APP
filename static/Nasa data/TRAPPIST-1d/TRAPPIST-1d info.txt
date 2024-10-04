@@ -1,0 +1,6 @@
+Size: 0.77 Earth masses
+Distance: 39 light-years
+Orbit: TRAPPIST-1 (ultra-cool dwarf)
+Features: A rocky planet possibly located at the inner edge of the habitable zone. 
+It may have liquid water or be covered in ice. Due to the low luminosity of its star, 
+even planets close to it could have mild temperatures.

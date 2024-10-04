@@ -1,0 +1,6 @@
+Size: 1.5 Earth masses
+Distance: 20 light-years
+Orbit: Gliese 581 (red dwarf)
+Features: If it exists, Gliese 581g is located in the star’s habitable zone and could support liquid water.
+It has a 37-day orbit and is likely tidally locked. Its potential habitability has sparked debate, though its 
+existence remains controversial.

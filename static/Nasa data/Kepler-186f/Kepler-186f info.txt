@@ -1,0 +1,6 @@
+Size: 1.1 Earth radii
+Distance: 560 light-years
+Orbit: Kepler-186 (M-dwarf)
+Features: The first Earth-sized exoplanet discovered in the habitable zone. 
+It orbits on the cooler edge of this zone, so temperatures might allow liquid water. 
+Its atmosphere and composition are still unknown, but it’s a prime target for study.

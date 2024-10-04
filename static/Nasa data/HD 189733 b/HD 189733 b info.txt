@@ -1,0 +1,6 @@
+Size: 1.14 Jupiter radii
+Distance: 64.5 light-years
+Orbit: HD 189733 (K-type star)
+Features: Hot Jupiter with extreme weather conditions, such as high-speed winds (up to 5,400 mph) 
+and rain made of glass-like silicates that may fall sideways. Its deep blue color suggests silicate particles 
+in its atmosphere

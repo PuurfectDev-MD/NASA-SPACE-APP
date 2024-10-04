@@ -1,0 +1,7 @@
+
+Size: 2.7 Earth radii
+Distance: 124 light-years
+Orbit: K2-18 (M-dwarf)
+Features: Located in the habitable zone with an atmosphere containing water vapor. 
+This mini-Neptune may have conditions suitable for liquid water at certain altitudes, 
+though its thick hydrogen atmosphere might not be conducive to life as we know it.

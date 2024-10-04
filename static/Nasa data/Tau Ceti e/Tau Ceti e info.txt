@@ -1,0 +1,5 @@
+Size: 4 Earth masses
+Distance: 12 light-years
+Orbit: Tau Ceti (G-type star)
+Features: A super-Earth in the inner edge of the habitable zone. Its mass suggests it may have a rocky surface, 
+but due to its proximity to the star, it could be too warm for liquid water to persist long-term.

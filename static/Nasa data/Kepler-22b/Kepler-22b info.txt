@@ -1,0 +1,6 @@
+Size: 2.4 Earth radii
+Distance: 620 light-years
+Orbit: Kepler-22 (G-type star)
+Features: Orbits in the habitable zone of its star, with a 290-day orbit. 
+Likely larger than Earth, it may have a thick atmosphere or be an ocean world. 
+Conditions for life are uncertain, but it’s a candidate for future exploration.

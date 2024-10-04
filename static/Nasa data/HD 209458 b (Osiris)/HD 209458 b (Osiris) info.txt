@@ -1,0 +1,6 @@
+Size: 1.39 Jupiter radii
+Distance: 159 light-years
+Orbit: HD 209458 (G-type star)
+Features: A "Hot Jupiter," orbiting extremely close to its star with a 3.5-day year. 
+Its atmosphere is being blown away by the star’s radiation, creating a trail of hydrogen
+and other elements. First exoplanet to have its atmosphere observed.

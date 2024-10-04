@@ -1,0 +1,6 @@
+Size: 1.9 Earth radii
+Distance: 41 light-years
+Orbit: 55 Cancri A (Sun-like star)
+Features: Extremely hot super-Earth, with surface temperatures exceeding 2,000°C due to its 18-hour orbit. 
+Its surface may be molten lava. Early models suggested it could have a carbon-rich surface with diamonds, 
+though this is still debated.

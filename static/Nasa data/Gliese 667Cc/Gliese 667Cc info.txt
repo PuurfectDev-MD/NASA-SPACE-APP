@@ -1,0 +1,6 @@
+Size: 4.5 Earth masses
+Distance: 23 light-years
+Orbit: Gliese 667C (M-dwarf)
+Features: Orbits in the star’s habitable zone, receiving similar sunlight to Earth. 
+A potential rocky planet, it has a 28-day orbit and could support liquid water,
+though its parent star is more active than the Sun, which could affect its atmosphere.

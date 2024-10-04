@@ -1,0 +1,6 @@
+Size: 0.91 Earth masses
+Distance: 39 light-years
+Orbit: TRAPPIST-1 (ultra-cool dwarf)
+Features: Part of a system with seven Earth-sized planets. TRAPPIST-1e is in the habitable zone, 
+likely rocky, and may have liquid water. Tidally locked, its day side may be scorching while its night side
+freezes, with a potential temperate zone along the terminator line.
