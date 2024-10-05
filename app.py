@@ -63,6 +63,10 @@ def home():
 def homepage():
     return render_template("homepage.html")
 
+@app.route("/explore")
+def explore():
+    return render_template("explorepg.html")
+
 @app.route("/exo")
 def exo():
     # Pass the exoplanets data to the template
