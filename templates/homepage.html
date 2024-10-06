@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Explore Exoplanets</title>
     <link rel="stylesheet" type="text/css" href="/static/style.css">
 </head>
 <body>
@@ -22,36 +23,65 @@
     </div>
 </header>
 
-<div class="container">
-    <div class="mySlides">
-        <div class="numbertext">1 / 6</div>
-        <img src="/static/images/slideshowimg-0.jpg" style="width:100%">
-    </div>
+<div class="slideshow-container">
+  <div class="mySlides fade">
+      <img src="/static/images/slideshowimg-0.jpg" style="width:100%">
+  </div>
+  <div class="mySlides fade">
+    <img src="/static/images/slideshowimg-1.jpg" style="width:100%">
+  </div>
+  <div class="mySlides fade">
+    <img src="/static/images/slideshowimg-2.jpg" style="width:100%">
+  </div>
+  <div class="mySlides fade">
+    <img src="/static/images/slideshowimg-3.jpg" style="width:100%">
+  </div>
+  <div class="mySlides fade">
+    <img src="/static/images/slideshowimg-4.jpg" style="width:100%">
+  </div>
+  <div class="mySlides fade">
+    <img src="/static/images/slideshowimg-5.jpg" style="width:100%">
+  </div>
+</div>
 
-    <div class="mySlides">
-        <div class="numbertext">2 / 6</div>
-        <img src="/static/images/slideshowimg-1.jpg" style="width:100%">
-    </div>
+<!--<div class="container">
+  <div class="slider-wrapper">
+          <div class="slider">
+              <img src="/static/images/slideshowimg-0.jpg">
+          </div>
+          <div class="slider">
+              <img src="/static/images/slideshowimg-1.jpg">
+          </div>
+          <div class="slider">
+              <img src="/static/images/slideshowimg-2.jpg">
+           </div>
+          <div class="slider">
+              <img src="/static/images/slideshowimg-3.jpg">
+          </div>
+          <div class="slider">
+              <img src="/static/images/slideshowimg-4.jpg">
+          </div>
 
-    <div class="mySlides">
-        <div class="numbertext">3 / 6</div>
-        <img src="/static/images/slideshowimg-2.jpg" style="width:100%">
+  </div>
+</div>
+<!--<section class="container">
+  <div class="slider-wrapper">
+    <div class="slider">      
+      <img id="slide-1" src="/static/images/slideshowimg-0.jpg">  
+      <img id="slide-2" src="/static/images/slideshowimg-1.jpg">
+      <img id="slide-3" src="/static/images/slideshowimg-2.jpg">
+      <img id="slide-3" src="/static/images/slideshowimg-3.jpg">
+      <img id="slide-4" src="/static/images/slideshowimg-4.jpg"> 
     </div>
-
-    <div class="mySlides">
-        <div class="numbertext">4 / 6</div>
-        <img src="/static/images/slideshowimg-3.jpg" style="width:100%">
+    <div class="slider-nav">
+      <a href="#slide-1"></a>
+      <a href="#slide-2"></a>
+      <a href="#slide-3"></a>
+      <a href="#slide-4"></a>
+      <a href="#slide-5"></a>
     </div>
-
-    <div class="mySlides">
-        <div class="numbertext">5 / 6</div>
-        <img src="/static/images/slideshowimg-4.jpg" style="width:100%">
-    </div>
-
-    <div class="mySlides">
-        <div class="numbertext">6 / 6</div>
-        <img src="/static/images/slideshowimg-5" style="width:100%">
-    </div>
+  </div>
+</section>-->
 
     <a class="prev" onclick="plusSlides(-1)">❮</a>
     <a class="next" onclick="plusSlides(1)">❯</a>
@@ -65,8 +95,117 @@
     <span id="typing-text"></span><span class="caret"></span>
 </div>
 
+
 <!-- Include the external JavaScript file -->
 <script src="/static/script.js"></script>
 
+
+
+
+<div class="redirects">
+  <div class="box">
+    <a href="https://skyandtelescope.org/astronomy-news/exoplanets/">
+    <img src="/static/images/news_exo.webp" style="margin-right: 10px;" /> 
+    </a>
+  </div>
+  <br>
+  <div class="box">
+    <a href="https://esahubble.org/images/archive/category/exoplanets/">
+    <img src="/static/images/images_expo.webp"style="margin-right: 10px;" /> 
+    </a>
+  </div>
+  
+  <div class="box">
+    <a href="https://esahubble.org/videos/archive/category/extrasolar/">
+    <img src="/static/images/videos_expo.webp"> 
+    </a>
+  </div>
+</div>
+
+
+<div class="main">
+    
+    <ul class="cards">
+      <li class="cards_item">
+        <div class="card">
+          <div class="card_image"><img src="/static/images/spacecraft-001.webp"></div>
+          <div class="card_content">
+            <h2 class="card_title">NASA Completes Spacecraft to Transport, Support Roman Space Telescope</h2>
+            <br>
+            
+            <a href="https://www.nasa.gov/missions/roman-space-telescope/nasa-completes-spacecraft-to-transport-support-roman-space-telescope/">
+            <button class="btn card_btn">Read More</button>
+            </a>
+          </div>
+        </div>
+      </li>
+      <li class="cards_item">
+        <div class="card">
+          <div class="card_image"><img src="/static/images/spacecraft-002.webp"></div>
+          <div class="card_content">
+            <br>
+            <h2 class="card_title">NASA’s EXCITE Mission Prepared for Scientific Balloon Flight</h2>
+            <br>
+         
+            <a href="https://science.nasa.gov/missions/scientific-balloons/nasas-excite-mission-prepared-for-scientific-balloon-flight/">
+            <button class="btn card_btn">Read More</button>
+           </a>
+          </div>
+        </div>
+      </li>
+      <li class="cards_item">
+        <div class="card">
+          <div class="card_image"><img src="/static/images/spacecraft-003.webp"></div>
+          <div class="card_content">
+            <br>
+            <h2 class="card_title">Talented Teams Tackle Toasty Planet</h2>
+            <br>     
+            <a href="https://science.nasa.gov/get-involved/citizen-science/talented-teams-tackle-toasty-planet/">
+            <button class="btn card_btn">Read More</button>
+            </a>
+          </div>
+        </div>
+      </li>
+      <li class="cards_item">
+        <div class="card">
+          <div class="card_image"><img src="/static/images/spacecraft-004.webp"></div>
+          <div class="card_content">
+           
+            <h2 class="card_title">NASA Selects 5 New Roman Technology Fellows in Astrophysics</h2>
+            <br>
+            <a href="https://science.nasa.gov/science-research/astrophysics/nasa-selects-5-new-roman-technology-fellows-in-astrophysics/">
+            <button class="btn card_btn">Read More</button>
+            </a>
+          </div>
+        </div>
+      </li>
+      <li class="cards_item">
+        <div class="card">
+          <div class="card_image"><img src="/static/images/wfiin-ssdif-240813-0031.webp"></div>
+          <div class="card_content">
+            <h2 class="card_title">Primary Instrument for Roman Space Telescope Arrives at NASA Goddard</h2>
+            <br>
+            <a href="https://www.nasa.gov/missions/roman-space-telescope/primary-instrument-for-roman-space-telescope-arrives-at-nasa-goddard/">
+            <button class="btn card_btn">Read More</button>
+            </a>
+          </div>
+        </div>
+      </li>
+      <li class="cards_item">
+        <div class="card">
+          <div class="card_image"><img src="/static/images/ota-harris-240402-004-copyrevb.webp"></div>
+          <div class="card_content">
+            <h2 class="card_title">NASA's Roman Space Telescope’s ‘Eyes’ Pass First Vision Test</h2>
+            <br>
+            <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescopes-eyes-pass-first-vision-test/">
+            <button class="btn card_btn">Read More</button>
+            </a>
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+  
+  
 </body>
 </html>

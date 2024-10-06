@@ -5,6 +5,7 @@
 body {
     font-family: Arial;
     margin: 0;
+    background-color: #000000;
   }
   
   * {
@@ -60,13 +61,13 @@ body {
   }
   
   /* Position the image container (needed to position the left and right arrows) */
-  .container {
+  /*.container {
     position: relative;
     margin-top: 0px;
   }
   
   /* Hide the images by default */
-  .mySlides {
+  /*.mySlides {
     display: none;
   }
   
@@ -76,7 +77,7 @@ body {
   }
   
   /* Next & previous buttons */
-  .prev,
+  /*.prev,
   .next {
     cursor: pointer;
     position: absolute;
@@ -93,7 +94,7 @@ body {
   }
   
   /* Position the "next button" to the right */
-  .next {
+  /*.next {
     right: 0;
     border-radius: 3px 0 0 3px;
   }
@@ -155,3 +156,311 @@ body {
 @keyframes blink {
     50% { border-color: transparent; }
 }
+
+
+/* Font */
+@import url('https://fonts.googleapis.com/css?family=Quicksand:400,700');
+
+/* Design */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  
+}
+
+html {
+  background-color: #ecf9ff;
+}
+
+body {
+  color: #272727;
+  font-family: 'Quicksand', serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+  padding: 1rem;
+}
+
+.main{
+  max-width: 1200px;
+  margin: 0 auto;  
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: 400;
+    text-align: center;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+  text-align: center;
+}
+
+.btn {
+  color: #ffffff;
+  padding: 0.8rem;
+  font-size: 14px;
+  text-transform: uppercase;
+  border-radius: 4px;
+  font-weight: 400;
+  display: block;
+  width: 100%;
+  cursor: pointer;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: transparent;
+}
+
+.btn:hover {
+  background-color: rgba(255, 255, 255, 0.12);
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 2px 2px 2px 2px;
+  padding: 0px;
+}
+
+.cards_item {
+  display: flex;
+  padding: 1rem;
+}
+
+@media (min-width: 40rem) {
+  .cards_item {
+    width: 50%;
+    height: 50%;
+  }
+}
+
+@media (min-width: 56rem) {
+  .cards_item {
+    width: 33.3333%;
+
+  }
+}
+
+.card {
+  background-color:#fff;
+  border-radius: 0.25rem;
+  box-shadow: 0 20px 40px -14px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.card_content {
+  padding: 1rem;
+  background: linear-gradient(to bottom left, #000000 40%, #FFC39E 100%);
+  
+}
+
+.card_title {
+  color: #ffffff;
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: capitalize;
+  margin: 0px;
+  text-align: center;
+  display: inline-block;
+  
+}
+
+.card_text {
+  color: #ffffff;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  margin-bottom: 1.25rem;    
+  font-weight: 400;
+}
+.made_by{
+  font-weight: 400;
+  font-size: 13px;
+  margin-top: 35px;
+  text-align: center;
+}
+
+.box{
+  margin: 50px 50px 50px;
+  border-radius: 10px;
+
+}
+
+
+.redirects {
+       
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.box img{
+  height: 100%;
+  width: 100%;
+  border-radius: 50px;
+}
+img {
+height: auto;
+max-width: 100%;
+vertical-align: middle;
+}
+.box :hover{
+  transform: scale(1.1);
+  z-index: 2;
+}
+
+/*.container{
+  padding: 1rem;
+  
+  
+}
+
+.slider-wrapper{
+  position: relative;
+  max-width: 100%;
+  margin: 0 auto;
+  overflow: auto;
+  display: flex;
+
+}
+
+.slider {
+  display: flex;
+  overflow: auto;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  box-shadow: 0 1.5rem 3rem -0.75rem hsla(0, 0%, 0.25);
+}
+
+.slider img {
+  flex: 1 0 100%;
+  scroll-snap-align: start;
+  object-fit: cover;
+
+}
+
+.slider-nav {
+  -webkit-animation-name: slide_animation;
+  animation-name: slide_animation;
+  -webkit-animation-duration: 33s;
+  animation-duration: 33s;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+  animation-direction: alternate;
+  -webkit-animation-play-state: running;
+  animation-play-state: running;
+}
+/*.slider-nav {
+  display: flex;
+  column-gap: 1rem;
+  position: absolute;
+  bottom: 1.25rem;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1;
+}
+
+/*.slider-nav a {
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 50%;
+  background-color: #fff;
+  opacity: 0.75;
+  transition: opacity ease 250ms;
+}
+
+.slider-nav a:hover {
+  opacity: 1;
+}*/
+
+/*.container{
+  overflow: hidden;
+  height: 800px;
+  width: 1200px;
+  margin-left: 360px;
+  margin-top: 20px;
+}
+
+@keyframes slide_animation{
+  0% {left:0px;}
+  10% {left:0px;}
+  20% {left:1200px;}
+  30% {left:1200px;}
+  40% {left: 2400px;}
+  50% {left: 2400px;}
+  60% {left: 1200px;}
+  70% {left: 1200px;}
+  80% {left: 0px;}
+  90% {left: 0px;}
+  100% {left:0px;}
+}
+@-webkit-keyframes slide_animation{
+  0% {left:0px;}
+  10% {left:0px;}
+  20% {left:1200px;}
+  30% {left:1200px;}
+  40% {left: 2400px;}
+  50% {left: 2400px;}
+  60% {left: 1200px;}
+  70% {left: 1200px;}
+  80% {left: 0px;}
+  90% {left: 0px;}
+  100% {left:0px;}
+}
+
+.slider-wrapper {
+  width: 3600px;
+  height: 800px;
+  margin: 0 0 0 -2400px;
+  position: relative;
+  -webkit-animation-name: slide_animation;
+  animation-name: slide_animation;
+  -webkit-animation-duration: 10s;
+  animation-duration: 10s;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+  animation-direction: alternate;
+  -webkit-animation-play-state: running;
+  animation-play-state: running;
+}
+
+.slider {
+  height: 800px;
+  width: 1200px;
+  position: relative;
+  float: left;
+}*/
+
+.slideshow-container {
+  position: relative;
+  max-width: 100%; /* Set the maximum width of the slideshow */
+  margin: auto;
+  overflow: hidden; /* Hide overflow for images */
+}
+
+.mySlides {
+  display: none; /* Hide images by default */
+}
+
+.slideshow-container img {
+  width: 100%; /* Make images fit the container */
+  height: auto; /* Maintain aspect ratio */
+  
+}
+
+/* Optional: Add some transition effects */
+.fade {
+  animation: fade 1s ease-in-out;
+}
+
+@keyframes fade {
+  from {opacity: 0.8} 
+  to {opacity: 1}
+}
+
